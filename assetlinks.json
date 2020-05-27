@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.lacviet.lqky.conference",
+            "sha256_cert_fingerprints": [
+                "12:86:42:92:EC:0F:92:F6:F9:BB:8A:97:B9:E4:45:22:F4:9E:F5:65:A8:74:14:D3:4B:0B:41:D2:E8:30:F4:9A"
+            ]
+        }
+    }
+]
